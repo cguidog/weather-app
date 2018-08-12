@@ -1,0 +1,17 @@
+
+#info {
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    margin: auto;
+   background: linear-gradient(#9CCC65, #81D4FA, #9CCC65);
+  }
+  body {
+    background-color: #9CCC65 ;
+    margin: 0;
+  }
+  #title {
+    margin: auto;
+    text-align: center;
+  }
